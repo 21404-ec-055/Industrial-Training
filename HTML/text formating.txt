@@ -1,0 +1,11 @@
+b--- bold
+strong
+i --- italic
+u --- underline
+mark
+em--- emphasis
+del--- delete 
+sup--- supeerscript
+sub---subscript
+small
+big
