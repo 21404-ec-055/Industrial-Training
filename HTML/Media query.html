@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .a{
+            height: 400px;
+            width: 400px;
+            background-color: white;
+        }
+        body{
+            background-color: red;
+        }
+        @media screen  and (max-width:800px){
+            body{
+                background-color: yellow;
+                color: red;
+            }
+            div{
+               transform: rotate(180deg);
+               transition-duration: 3s;
+            }
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Media Queries</h1></center>
+    <div class="a"></div>
+</body>
+</html>

@@ -1,0 +1,159 @@
+.a{
+    height:1000px;
+    width: 1500px;
+    border: 2px solid;
+}
+.b{
+    height: 100px;
+    width: 1500px;
+    background-color: blue;
+}
+.c{
+    height: 900px;
+    width: 400px;
+    background-color:rgb(215, 240, 248) ;
+    float: left;
+}
+.d{
+    height: 900px;
+    width:1100px;
+    background-color:rgb(215, 240, 248) ;
+    float: left;
+}
+.e{
+    height: 200px;
+    width: 975px;
+    margin: 50px;
+    margin-bottom: 30px;
+    background-color: blue;
+    border-radius: 5px;
+}
+.f{
+    height: 50px;
+    width: 975px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+.g{
+    height: 300px;
+    width: 225px;
+    background-color: gray;
+    margin-left: 50px;
+    float: left;
+}
+.h{
+    height: 300px;
+    width: 225px;
+    background-color: gray;
+    margin-left: 25px;
+    float: left;
+}
+.h1{
+    position: relative;
+    top: 20px;
+    color: white;
+    font-size: 45px;
+}
+.i{
+    font-size: 30px;
+    position: relative;
+    left: 30px;
+    top: 20px;
+    color: white;
+}
+.j{
+    font-size: 20px;
+    position: relative;
+    left: 30px;
+    top: 20px;
+    bottom: 200px;
+    color: white;
+}
+label{
+    position: relative;
+    top: 40px;
+    left: 50px;
+    font-size: 30px;
+}
+input{
+    margin: 50px;
+    height: 50px;
+    width: 340px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+#a{
+    height: 50px;
+    width: 348px;
+    font-size: 20px;
+    margin-left: 50px;
+    background-color: blue;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+}
+#b{
+    width: 150px;
+    height: 1px;
+    background-color: black;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+#c{
+    font-size: 20px;
+    position: relative;
+    left: 213px;
+    bottom: 22px;
+}
+#d{
+    width: 150px;
+    height: 0.5px;
+    background-color: black;
+    position: relative;
+    left: 120px;
+    bottom: 40px;
+}
+#e{
+    height: 50px;
+    width: 348px;
+    font-size: 20px;
+    margin-left: 50px;
+    background-color: gray;
+    color: white;
+    border: 0px;
+    border-radius: 5px; 
+    position: relative;
+    bottom: 20px;
+}
+#f{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+#g{
+    margin-left: 20px;
+    font-size:20px ;
+    color: white;
+    margin-top: 10px;
+}
+img{
+    height: 80px;
+    width: 80px;
+    margin-left: 20px;
+}
+#i1{
+    height: 150px;
+    width: 150px;
+    position: relative;
+    left: 300px;
+    bottom: 85px;
+}
+#i2{
+    position: relative;
+    left: 465px;
+    bottom: 160px;
+    font-size: 20px;
+    color: white;
+}
